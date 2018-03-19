@@ -15,5 +15,8 @@
 }
 
 body{
-	background-color: #646363;
+	background-color: #F5690B;
+	background-image: url(../images/trainpic.jpg);
+	opacity:.9;
+	background-position: center;
 }
